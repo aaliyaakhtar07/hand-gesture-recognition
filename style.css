@@ -1,0 +1,25 @@
+body {
+    font-family: Arial;
+    text-align: center;
+    background-color: #f5f5f5;
+}
+
+h1 {
+    margin-top: 20px;
+}
+
+button {
+    padding: 10px 20px;
+    font-size: 16px;
+    cursor: pointer;
+}
+
+#webcam-container {
+    margin-top: 20px;
+}
+
+#label-container {
+    margin-top: 20px;
+    font-size: 18px;
+    font-weight: bold;
+}
